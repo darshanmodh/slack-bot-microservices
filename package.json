@@ -1,0 +1,14 @@
+{
+  "name": "iris-slack-bot",
+  "version": "1.0.0",
+  "description": "Slack bot with NodeJS and Wit.ai - MicroServices",
+  "main": "server/service.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Darshan Modh",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.15.4"
+  }
+}
